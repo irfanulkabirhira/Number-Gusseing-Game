@@ -1,2 +1,2 @@
-
+Number Guessing Game: A fun command-line game where the player guesses a randomly selected number between 1 and 20. Choose between "easy" or "hard" difficulty modes and get feedback on whether your guess is too high or too low. Includes a limited number of attempts and congratulatory messages for correct guesses!
 ![image alt](https://github.com/irfanulkabirhira/Number-Gusseing-Game/blob/7c7cfa8c30f24dd8eb66ac8f871fdd297483debb/Result%20of%20this%20Game.png)
